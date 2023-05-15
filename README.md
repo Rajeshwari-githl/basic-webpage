@@ -1,5 +1,9 @@
 # basic-webpage
 it shows about basic tags
-# html elements
+<h4>html elements </h4>
+<ul>
+  <li>div </li>
+  <li>button</li>
+  <li>lists</li>
 
-# css elements
+<h4> css elements </h4>
