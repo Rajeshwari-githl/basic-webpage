@@ -7,3 +7,8 @@ it shows about basic tags
   <li>lists</li>
 
 <h4> css elements </h4>
+  <ul>
+    <li>import url</li>
+    <li>nav bar</li>
+    <li>submit button</li>
+  </ul>
