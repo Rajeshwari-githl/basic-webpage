@@ -10,5 +10,6 @@ it shows about basic tags
   <ul>
     <li>import url</li>
     <li>nav bar</li>
+     <li>entering valid details </li>li>
     <li>submit button</li>
   </ul>
